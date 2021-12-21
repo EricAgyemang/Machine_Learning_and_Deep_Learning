@@ -42,14 +42,13 @@ commanding effect of mitigating the mortality rate of the breast cancer patient.
 
 # METHODOLOGY  
 To answer the research questions posed in the study, data on breast cancer cases in San Francisco, Connecticut, and New
-Jersey from the years 1992 to 2016 were taken from CDC website. These states are part of the top
-10 states in the USA which experience high rate of cancer contraction. A total of 100,002 observations
-were collected and the variables collected include mammographic descriptors and demographic risk factors. The dependent variable chosen
-for this study is the Patients Last Status (Alive or dead). All patients for the study are first analyzed together. Afterwards, the data 
-is split into gender (Male and Female data) and analyze separately to get the predictions of each gender.The model performance are determined 
-and compared; The prediction of logistic regression, MLP-Network(Deep learning), CNN, Random Forest classification, and RBF predictions are 
-done by the use of confusion matrix to obtain the accuracy of prediction, Sensitivity Analysis(SA), Specificity Analysis, Positive Predictive 
-Value(PPV), Negative Predictive Value(NPV), and the Receiver Operating Characteristic (ROC) curve.
+Jersey from the years 1992 to 2016 was taken from CDC website. These states are part of the top 10 states in the USA which experience high 
+rate of cancer contraction. A total of 100,002 observations were collected and the variables collected include mammographic descriptors and
+demographic risk factors. The dependent variable chosen for this study is the Patients Last Status (Alive or dead). All patients for the study 
+are first analyzed together. Afterwards, the data is split into gender (Male and Female data) and analyze separately to get the predictions for
+each gender.The models' performance are determined and compared; The logistic regression, MLP-Network(Deep learning), CNN, Random Forest classification,
+and RBF predictions are obtained by the use of confusion matrix. The accuracy of prediction, Sensitivity Analysis(SA), Specificity Analysis, Positive Predictive 
+Value(PPV), Negative Predictive Value(NPV), and the Receiver Operating Characteristic (ROC) curve were ascertained.
 
 # DEFINITION OF MODEL EVALUATION APPROACHES USED.
   1. **Sensitivity Analysis:** This tells us the probability that the model predicts positive as death given
