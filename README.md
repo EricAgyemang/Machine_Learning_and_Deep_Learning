@@ -1,8 +1,5 @@
-# Machine-Learning-and-Deep-Learning-Repo
-Comparison of ML and Deep Learning Models for Breast canser data in USA (MAT 490, ISU)
-
 # RESEARCH TOPIC:
-  # APPLICATION OF LOGISTIC REGRESSION AND NEURAL NETWORK MODELS TO BREAST CANCER PATIENTS
+  # APPLICATION OF LOGISTIC REGRESSION AND NEURAL NETWORK MODELS TO BREAST CANCER PATIENTS IN USA (MAT 490, ISU)
   
   # ABSTRACT
 Breast cancer is a disease in which the cells in the breast grows out of control. It is the second
