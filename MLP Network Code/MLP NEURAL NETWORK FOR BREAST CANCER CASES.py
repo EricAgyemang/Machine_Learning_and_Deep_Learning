@@ -103,8 +103,8 @@ tns_probs=[0 for _ in range(len(y_test))]
 # In[20]:
 
 
-tmlp=MLPClassifier(hidden_layer_sizes=(6, 6, 6, 6), activation ='relu', solver = 'adam' ,alpha= 0.01, batch_size='auto', learning_rate = 'adaptive', max_iter = 10000, learning_rate_init=0.001, power_t=0.5)
-tmlp.fit(x_train, y_train)
+tmlp=MLPClassifier(hidden_layer_sizes=(6, 6, 6, 6), activation ='relu', solver = 'adam' ,alpha= 0.01, batch_size='auto', learning_rate = 'adaptive',
+                    max_iter = 10000, learning_rate_init=0.001, power_t=0.5) tmlp.fit(x_train, y_train)
 
 
 # In[21]:
@@ -374,8 +374,8 @@ tns_probs=[0 for _ in range(len(my_test))]
 # In[16]:
 
 
-male_mlp=MLPClassifier(hidden_layer_sizes=(6, 6, 6, 6), activation ='relu', solver = 'adam' ,alpha= 0.01, batch_size='auto', learning_rate = 'adaptive', max_iter = 10000, learning_rate_init=0.001, power_t=0.5)
-male_mlp.fit(mx_train, my_train)
+male_mlp=MLPClassifier(hidden_layer_sizes=(6, 6, 6, 6), activation ='relu', solver = 'adam' ,alpha= 0.01, batch_size='auto', 
+                       learning_rate = 'adaptive', max_iter = 10000, learning_rate_init=0.001, power_t=0.5) male_mlp.fit(mx_train, my_train)
 
 
 # In[17]:
@@ -591,8 +591,8 @@ tns_probs=[0 for _ in range(len(fy_test))]
 # In[8]:
 
 
-female_mlp=MLPClassifier(hidden_layer_sizes=(6, 6, 6, 6), activation ='relu', solver = 'adam' ,alpha= 0.01, batch_size='auto', learning_rate = 'adaptive', max_iter = 10000, learning_rate_init=0.001, power_t=0.5)
-female_mlp.fit(fx_train, fy_train)
+female_mlp=MLPClassifier(hidden_layer_sizes=(6, 6, 6, 6), activation ='relu', solver = 'adam' ,alpha= 0.01, batch_size='auto', 
+                         learning_rate = 'adaptive', max_iter = 10000, learning_rate_init=0.001, power_t=0.5) female_mlp.fit(fx_train, fy_train)
 
 
 # In[9]:
