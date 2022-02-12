@@ -26,11 +26,10 @@ This project is guided by the following research question:
    3. Which model is the best fit for estimating breast cancer risk factors in contributing to improve clinical decision making?
  
  # SIGNIFICANCE OF THE STUDY
-This study does not only contributes to extent literature, it also contribute to creating the awareness, bringing to knowledge and 
-understanding of the factors that affect breast cancer patients, serving as a guide to both patients and physicians which intends 
-to open the doors to a more appropriate means for prevention, accurate method of diagnosis, better prediction of clinical outcomes, 
-and treating breast cancer in the USA. These will help ensure an improved quality of life of breast cancer patients which has a commanding 
-effect of mitigating the mortality rate of the breast cancer patient.
+This study does not only contributes to extent literature, it also contribute to creating the awareness, bringing to knowledge and understanding of 
+key factors that affect breast cancer patients, serves as a guide to both patients and physicians, and intends to open doors to more appropriate means
+for prevention, accurate method of diagnosis, better prediction of breast cancer outcomes, and treating breast cancer in the USA. These will help ensure
+an improved quality of life of breast cancer patients which has a commanding effect of mitigating the mortality rate of the breast cancer patient.
 
 # SCOPE OF STUDY
 
