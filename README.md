@@ -33,7 +33,7 @@ and treating breast cancer in the USA. These will help ensure an improved qualit
 effect of mitigating the mortality rate of the breast cancer patient.
 
 # SCOPE OF STUDY
-Significance of the Study
+
 This study does not only contributes to extent literature, it also contribute to creating the awareness, bringing to knowledge 
 and understanding of the factors that affect breast cancer patients, serving as a guide to both patients and physicians which intends 
 to open the doors to a more appropriate means for prevention, accurate method of diagnosis, better prediction of clinical
